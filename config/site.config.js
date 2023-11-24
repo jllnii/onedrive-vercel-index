@@ -29,16 +29,16 @@ module.exports = {
   // [OPTIONAL] We use Google Fonts natively for font customisations.
   // You can check and generate the required links and names at https://fonts.google.com.
   // googleFontSans - the sans serif font used in onedrive-vercel-index.
-  googleFontSans: 'Josefin Sans',
+  googleFontSans: 'Delicious Handrawn',
   // googleFontMono - the monospace font used in onedrive-vercel-index.
   googleFontMono: 'Fira Mono',
   // googleFontLinks -  an array of links for referencing the google font assets.
-  googleFontLinks: ['https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;500;700&display=swap','https://fonts.googleapis.com/css2?family=Josefin+Sans'],
+  googleFontLinks: ['https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;500;700&display=swap','https://fonts.googleapis.com/css2?family=Delicious+Handrawn'],
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    "https://img.shields.io/badge/build-Made%20With%20%E2%9D%A4-red?style=for-the-badge&logo=telegram&label=Jay",
+    'https://img.shields.io/badge/build-Made%20With%20%E2%9D%A4-red?style=for-the-badge&logo=telegram&label=Jay',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
