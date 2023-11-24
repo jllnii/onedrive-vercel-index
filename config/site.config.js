@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Developed by Vercel. Made with ❤ by <a href="https://jllnii.my.id/" target="_blank">Muhammad Jaelani</a> | Thanks to <a href="https://github.com/spencerwooo" target="_blank" rel="noopener noreferrer">spencerwooo</a>',
+    '© 2023 - <a href="https://jllnii.my.id/" target="_blank">JLLNII</a>, All Rights Reserved. Made with ❤ by Jae',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -60,5 +60,5 @@ module.exports = {
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
   // without timezone and replacing T with space.
-  datetimeFormat: 'MMM, YYYY',
+  datetimeFormat: 'MMM YYYY',
 }
