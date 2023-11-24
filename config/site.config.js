@@ -42,7 +42,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: [''],
+  protectedRoutes: ['/Pictures/100CANON'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: '',
@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
+      name: 'Telegram',
       link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
   ],
