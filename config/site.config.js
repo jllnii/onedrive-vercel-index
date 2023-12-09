@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '<script type="text/javascript" src="https://assets.trakteer.id/js/trbtn-overlay.min.js"></script><script type="text/javascript" class="troverlay">(function() {var trbtnId = trbtnOverlay.init("Dukung Saya di Trakteer","#be1e2d","https://trakteer.id/jllnii/tip/embed/modal","https://cdn.trakteer.id/images/embed/trbtn-icon.png?date=18-11-2023","40","inline");trbtnOverlay.draw(trbtnId);})();</script><br><br><iframe height="40px" width="100%" style="border: none;" src="https://stream.trakteer.id/running-text-default.html?rt_font=Amaranth&rt_count=5&rt_speed=faster&rt_theme=default&rt_1_clr1=rgba%28190%2C+30%2C+45%2C+1%29&rt_1_clr2=rgba%28255%2C+255%2C+255%2C+1%29&rt_1_clr3=rgba%28255%2C+200%2C+73%2C+1%29&rt_3_clr1=rgba%2868%2C+68%2C+68%2C+1%29&rt_3_clr2=rgba%28255%2C+255%2C+255%2C+1%29&rt_3_clr3=rgba%28251%2C+215%2C+88%2C+1%29&rt_septype=bull&rt_messages=Support+El+Gato+Mirror+di+%7Btrlink%7D+dukung+menggunakan+Gopay%2C+OVO%2C+Dana%2C+LinkAja%2C+ShopeePay%2C+QRIS%2C+dan+Transfer+Bank&rt_txtshadow=true&creator_name=elgato&page_url=trakteer.id/jllnii&mod=3&key=trstream-hAgmUepJuopit3OfDfd8&hash=vgxe3x9rxd73ladb"></iframe>',
+    '<iframe width="90%" style="border: none;" src="https://stream.trakteer.id/running-text-default.html?rt_font=default&rt_count=5&rt_speed=slow&rt_theme=default&rt_1_clr1=rgba%28190%2C+30%2C+45%2C+1%29&rt_1_clr2=rgba%28255%2C+255%2C+255%2C+1%29&rt_1_clr3=rgba%28255%2C+200%2C+73%2C+1%29&rt_3_clr1=rgba%2868%2C+68%2C+68%2C+1%29&rt_3_clr2=rgba%28255%2C+255%2C+255%2C+1%29&rt_3_clr3=rgba%28251%2C+215%2C+88%2C+1%29&rt_septype=bull&rt_messages=Support+El+Gato+Mirror+di+%7Btrlink%7D+dukung+menggunakan+Gopay%2C+OVO%2C+Dana%2C+LinkAja%2C+ShopeePay%2C+QRIS%2C+dan+Transfer+Bank&rt_txtshadow=false&creator_name=elgatobot&page_url=trakteer.id%2Felgatobot&mod=3&key=trstream-hAgmUepJuopit3OfDfd8&hash=vgxe3x9rxd73ladb&timestamp=1702108624"</inframe>',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -54,6 +54,10 @@ module.exports = {
     {
       name: 'Telegram',
       link: 'https://telegram.dog/JLLNII',
+    },
+    {
+      name: 'Donate',
+      link: 'https://trakteer.id/elgatobot/tip?quantity=1',
     },
   ],
 
