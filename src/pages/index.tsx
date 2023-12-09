@@ -23,7 +23,6 @@ export default function Home() {
             <SwitchLayout />
           </nav>
           <FileListing />
-          <script type='text/javascript' src='https://assets.trakteer.id/js/trbtn-overlay.min.js'></script><script type='text/javascript' class='troverlay'>(function() {var trbtnId = trbtnOverlay.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/jllnii/tip/embed/modal','https://cdn.trakteer.id/images/embed/trbtn-icon.png?date=18-11-2023','40','inline');trbtnOverlay.draw(trbtnId);})();</script>
         </div>
       </main>
 
